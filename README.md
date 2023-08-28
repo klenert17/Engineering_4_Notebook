@@ -53,6 +53,9 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 ## Media Test
 
+![giphy](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/927df334-27e8-4c34-a122-2d8e73eb7b03)
+
+
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
 ### Test Link
