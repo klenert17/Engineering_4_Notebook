@@ -8,6 +8,29 @@
 
 &nbsp;
 
+## Raspberry_Pi_LED_Blink
+
+### Assignment Description
+
+For this assignment we had to make the LED on the PI board turn on and off indefinetly. This was to get us used to working with the PI for the first time.
+
+### Evidence 
+
+![ezgif com-crop](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/f51fbd5b-524c-4dca-a3d4-da197d11b2f6)
+
+
+
+### Code
+
+[CODE HERE CLICK HERE!!!!!!](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LED_blink.py)
+
+### Reflection
+
+Most of this assignment was setting up VS Code to work with the Raspberry Pi, and setting it up for a new year. As this was the first code assignment of the year, I was a little bit rusty but this code was very easy. It really wasn't any different from any other LED Blink Assignment I had dome previously, and it was even easier because there was no wiring. Putting #type: ignore at the top was a really helpful piece of information because the red code lines are so annoying
+
+&nbsp;
+
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
