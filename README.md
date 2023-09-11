@@ -41,7 +41,7 @@ Make the countdown blink red every second it goes down and stay green after it l
 
 #### Evidence
 
-![ezgif com-crop (1)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/a58e04c1-575b-495b-a7d3-52583345f3bc)
+![ezgif com-optimize](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/59b4ba66-742c-4a9d-b2ac-b6c637dc2eb7)
 
 #### Wiring
 
