@@ -3,8 +3,8 @@
 &nbsp;
 
 ## Table of Contents
-* [Raspberry_Pi_LED_Blink](#Raspberry_Pi_LED_Blink)
 * [Launch_Pad_Assignment](#launch_pad_assignment)
+* [Raspberry_Pi_LED_Blink](#Raspberry_Pi_LED_Blink)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
