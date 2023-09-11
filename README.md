@@ -37,11 +37,17 @@ This assignment was relativly easy because it was just hooking up the Pico to th
 
 #### Assignment description
 
+Make the countdown blink red every second it goes down and stay green after it launches using LEDs
+
 #### Evidence
 
 #### Wiring
 
+![image](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/31ae51fc-8f18-4f9b-8ff9-383184daac3b)
+
 #### Code
+
+[CODE CLICK HERE PLEASE PLEASER PLEAS](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LED_Countdown.py)
 
 #### Reflection
 
