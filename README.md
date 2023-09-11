@@ -41,6 +41,8 @@ Make the countdown blink red every second it goes down and stay green after it l
 
 #### Evidence
 
+![ezgif com-crop (1)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/a58e04c1-575b-495b-a7d3-52583345f3bc)
+
 #### Wiring
 
 ![image](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/31ae51fc-8f18-4f9b-8ff9-383184daac3b)
@@ -50,6 +52,8 @@ Make the countdown blink red every second it goes down and stay green after it l
 [CODE CLICK HERE PLEASE PLEASER PLEAS](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LED_Countdown.py)
 
 #### Reflection
+
+The hardest part of this assignment was the wiring. I have never wired a pico beofre and it was frustrating to not be able to see the number of which pin everything is going into all the time. After looking at the referance photo for the pins, I was able to wire it much easier. It was just two leds and two resistors, going into ground. 
 
 ### Part 3
 
