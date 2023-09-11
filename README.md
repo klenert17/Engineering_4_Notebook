@@ -15,15 +15,25 @@
 
 #### Assignment description
 
+Make the serial moniter count down from 10 and print launch
+
 #### Evidence
+
+![ezgif com-crop (1)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/e4922663-b1d7-457c-87c2-d31b0cb214b5)
 
 #### Wiring
 
+No wiring for this assignment
+
 #### Code
+
+(CLICK HERE 4 CODE)[https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchCountown.py]
 
 #### Reflection
 
-### PART 2
+This assignment was relativly easy because it was just hooking up the Pico to the comuter and having it print numbers. It took some time to think about how to make it count down rather than forward, but after some research and realizing I could move by negative incramates, it was pretty easy.
+
+### Part 2
 
 #### Assignment description
 
