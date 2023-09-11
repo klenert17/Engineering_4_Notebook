@@ -27,7 +27,7 @@ No wiring for this assignment
 
 #### Code
 
-(CLICK HERE 4 CODE)[https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchCountown.py]
+[CLICK HERE 4 CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchCountown.py)
 
 #### Reflection
 
