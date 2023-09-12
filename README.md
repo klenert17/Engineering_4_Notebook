@@ -64,11 +64,19 @@ Make the countodwn start after a button is pressed, with the LEDs lightingup for
 
 #### Evidence
 
+![ezgif com-optimize (1)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/340b06ce-6f8c-4992-b69a-3e9cdcde5520)
+
 #### Wiring
+
+![image](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/8fce6806-1e59-4c56-a567-d3cc3ac466c1)
 
 #### Code
 
+[PLEASE CLICK HERE FOR CODE PLEASE PLE$ASE PLEASE PLEASE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/Countdown_Button.py)
+
 #### Reflection
+
+The code with this assignment was difficult because I had to remember how to use a button. After looking up some simple code and some of my old code, I was able to cobine parts to the previous part of this assignment and make it work. For wiring, I just connected the button to ground and to another GP pin.
 
 ### Part 4
 
