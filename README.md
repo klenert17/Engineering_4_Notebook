@@ -60,6 +60,8 @@ The hardest part of this assignment was the wiring. I have never wired a pico be
 
 #### Assignment description
 
+Make the countodwn start after a button is pressed, with the LEDs lightingup for every second and holding green after liftoff
+
 #### Evidence
 
 #### Wiring
