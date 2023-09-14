@@ -82,13 +82,23 @@ The code with this assignment was difficult because I had to remember how to use
 
 #### Assignment description
 
+We had to attach a servo to the pico, and make it urn 180 sgrees afet launch/10 seconds. 
+
 #### Evidence
+
+![ezgif com-optimize (2)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/e4495764-404a-486d-9914-4a249cbba51c)
 
 #### Wiring
 
+![image](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/f838f153-a9e8-4978-8355-b40a95da6e21)
+
 #### Code
 
+[FINISHED CODE PLEASE CLICK PLEASE ITS GOOD I SAWR PLEASE PLEASE PLEASE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchPad4.py)
+
 #### Reflection
+
+This assignment overall was pretty easy once I got back in the swing of coding. Wiring the servo was simple, and putting the code with it can pretty quickly. I had some trouble keeping track of which pins were which but I know I will get more used to it with practice.
 
 &nbsp;
 
