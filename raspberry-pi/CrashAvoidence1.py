@@ -13,11 +13,11 @@ i2c = busio.I2C(board.GP15, board.GP14)
 mpu = adafruit_mpu6050.MPU6050(i2c)
 mpu.acceleration
 
-while True:
+while True: #loops command
     
-    print(f"x angular velocity: {mpu.gyro[0]}")
-    print(f"y angular velocity: {mpu.gyro[1]}")
-    print(f"z angular velocity: {mpu.gyro[2]}")
-    print("")
-    time.sleep(1)
+    print(f"x angular velocity: {mpu.gyro[0]}") #print x value
+    print(f"y angular velocity: {mpu.gyro[1]}") #print y value
+    print(f"z angular velocity: {mpu.gyro[2]}") #print z value
+    print("") #prints a gap
+    time.sleep(0.5) #pauses for half a second before printing again
     
