@@ -16,18 +16,23 @@
 
 #### Assignment description
 
+For this assignment we had to wire up an accelerometer that returns acceleration values for the x, y, and z axes to the serial monito.r
 
 #### Evidence
 
+![ezgif com-optimize (3)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/f4ae19f4-74f9-424e-a258-90f53105b524)
 
 #### Wiring
 
+![image](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/96c132ff-4466-4c7d-9543-b9177e54afaf)
 
 #### Code
 
+[CODE CODE CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence1.py)
 
 #### Reflection
 
+This assignment was simple in wiring and a little harder to code. Once I understood what the gyro lines meant, I realized I can choose which axis it prints, making it much easier. f commands were also very helpful to learn.
 
 ### Part 2
 
