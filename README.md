@@ -10,6 +10,79 @@
 
 &nbsp;
 
+## Crash Avoidence Assignment
+
+### Part 1
+
+#### Assignment description
+
+
+#### Evidence
+
+
+#### Wiring
+
+
+#### Code
+
+
+#### Reflection
+
+
+### Part 2
+
+#### Assignment description
+
+
+#### Evidence
+
+
+#### Wiring
+
+
+#### Code
+
+
+#### Reflection
+
+
+### Part 3
+
+#### Assignment description
+
+
+#### Evidence
+
+
+#### Wiring
+
+
+#### Code
+
+
+#### Reflection
+
+
+### Part 4
+
+#### Assignment description
+
+
+#### Evidence
+
+
+#### Wiring
+
+
+#### Code
+
+
+#### Reflection
+
+
+
+&nbsp;
+
 ## Launch Pad Assignment
 
 ### Part 1
