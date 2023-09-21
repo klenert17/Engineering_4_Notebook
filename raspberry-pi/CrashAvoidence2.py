@@ -17,15 +17,16 @@ led1.direction = digitalio.Direction.OUTPUT
 
 
 while True: #loops command
-    
+
+    time.sleep(0.5) #pauses for half a second before printing again
     print(f"x angular acceleration: {mpu.acceleration[0]}") #print x value
     print(f"y angular acceleration: {mpu.acceleration[1]}") #print y value
     print(f"z angular acceleration: {mpu.acceleration[2]}") #print z value
     print("") #prints a gap
-    time.sleep(0.5) #pauses for half a second before printing again
-    led1.value = True
+    
+    led1.value = False
 
-    if mpu.acceleration[0] < 9 and mpu.acceleration[0] > -9:
-        print("no light")
-        led1.value = False
+    if mpu.acceleration[0] > 9 or mpu.acceleration[0] < -9:
+        print("light")
+        led1.value = True
 
