@@ -39,9 +39,11 @@ This assignment was simple in wiring and a little harder to code. Once I underst
 
 #### Assignment description
 
+For this assignment we had to make a warning light turn on if the breadboard is tilted at 90 degrees, and make it run on a battery, not connected to the computer.
 
 #### Evidence
 
+![My Project (2)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/7ff06b49-610a-468e-99c9-b7572b5f45b9)
 
 #### Wiring
 
