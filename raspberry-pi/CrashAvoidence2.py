@@ -24,9 +24,9 @@ while True: #loops command
     print(f"z angular acceleration: {mpu.acceleration[2]}") #print z value
     print("") #prints a gap
     
-    led1.value = False
+    led1.value = False #makes LED set to off
 
-    if mpu.acceleration[0] > 9 or mpu.acceleration[0] < -9:
+    if mpu.acceleration[0] > 9 or mpu.acceleration[0] < -9: #command when board is turned 90 degrees
         print("light")
-        led1.value = True
+        led1.value = True #turns LED on if it is tilted 90 degrees
 
