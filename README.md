@@ -73,7 +73,7 @@ For this assignment we had to add an onboard OLED screen to print live angular v
 
 #### Code
 
-[BIG BOY CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence3.py0
+[BIG BOY CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence3.py0)
 
 #### Reflection
 
