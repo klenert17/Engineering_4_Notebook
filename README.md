@@ -61,18 +61,23 @@ This assignment allowed me to make a lot of progress, because it is no longer co
 
 #### Assignment description
 
+For this assignment we had to add an onboard OLED screen to print live angular velocity values.
 
 #### Evidence
 
+![My Project (3)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/c40a1bdc-23a9-4f49-9fdd-7838c3d60493)
 
 #### Wiring
 
+![image](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/d960e6b2-217e-4e2e-82ce-d96bd07d9aa3)
 
 #### Code
 
+[BIG BOY CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence3.py0
 
 #### Reflection
 
+The hardest part of this assignment was figuring out how to work with the OLED. learning the "\n" to break lines on the screen was super helpful. Setting up the board was pretty simple, I just needed to make sure all my SDA and SCL pins were connected in the same pin. I really enjoyed this assignment.
 
 ### Part 4
 
