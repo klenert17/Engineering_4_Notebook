@@ -39,18 +39,23 @@ This assignment was simple in wiring and a little harder to code. Once I underst
 
 #### Assignment description
 
+For this assignment we had to make a warning light turn on if the breadboard is tilted at 90 degrees, and make it run on a battery, not connected to the computer.
 
 #### Evidence
 
+![My Project (2)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/7ff06b49-610a-468e-99c9-b7572b5f45b9)
 
 #### Wiring
 
+![image](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/57c87275-acc1-43eb-bcbe-8ee2b327d60f)
 
 #### Code
 
+[PLEASE CLICK HERE PLEASE PLEASE PLEASE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence2.py)
 
 #### Reflection
 
+This assignment allowed me to make a lot of progress, because it is no longer computer connected. The x commands that determine the angle of the ship were really cool to learn, but hard to understand. To figure out what 90 degrees was on each x side, I printed the number when the board was on its side, and saw that it was at 9 and -9. I then used the "or" statement and the "<" and ">" to make a area where the LED is not on, and once it surpasses the limits, the LED will turn on. 
 
 ### Part 3
 
