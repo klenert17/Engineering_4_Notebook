@@ -244,7 +244,7 @@ We had to attach a servo to the pico, and make it urn 180 sgrees afet launch/10 
 
 #### Reflection
 
-This assignment overall was pretty easy once I got back in the swing of coding. Wiring the servo was simple, and putting the code with it can pretty quickly. I had some trouble keeping track of which pins were which but I know I will get more used to it with practice.
+This assignment overall was pretty easy once I got back in the swing of coding, with lots of help from the previous assignment. Wiring the servo was simple, and using online resources to keep track of the pins was super helpful to have on hand, [I used this website](https://microcontrollerslab.com/raspberry-pi-pico-pinout-features-programming-peripherals/). I had some trouble keeping track of which pins were which but I know I will get more used to it with practice.
 
 &nbsp;
 
