@@ -3,12 +3,13 @@
 &nbsp;
 
 ## Table of Contents
-* [Crash Avoidence Assignment](#crash_avoidence_assignment)
-* [Launch Pad Assignment](#launch_pad_assignment)
+* [FEA_Assignment](#FEA_Part_1)
+* [Crash Avoidence Assignment](#Crash_Avoidence_Assignment)
+* [Launch Pad Assignment](#Launch_Pad_Assignment)
 * [Raspberry Pi LED Blink](#Raspberry_Pi_LED_Blink)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
-* [FEA_Assignment](#FEA_Part_1)
+
 &nbsp;
 
 
