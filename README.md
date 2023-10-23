@@ -137,22 +137,6 @@ For this assignment we had to add an onboard OLED screen to print live angular v
 
 The hardest part of this assignment was figuring out how to work with the OLED. learning the "\n" to break lines on the screen was super helpful. Setting up the board was pretty simple, I just needed to make sure all my SDA and SCL pins were connected in the same pin. I really enjoyed this assignment.
 
-### Part 4
-
-#### Assignment description
-
-
-#### Evidence
-
-
-#### Wiring
-
-
-#### Code
-
-
-#### Reflection
-
 
 
 &nbsp;
