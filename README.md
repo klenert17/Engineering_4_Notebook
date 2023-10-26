@@ -20,6 +20,10 @@
 
 For this assignment we had to write code where when you input 3 coordinates on a plane, it will tell you the area of the triangle produced. 
 
+#### Evidence 
+
+![Capture](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/2f4a7faa-3b3f-4240-afc2-2adf85426e8d)
+
 #### Wiring
 
 N/A
