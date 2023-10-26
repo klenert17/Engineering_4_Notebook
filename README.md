@@ -3,6 +3,7 @@
 &nbsp;
 
 ## Table of Contents
+* [Landing_Area_Assignment](#Landing_Area_Assignment)
 * [FEA_Assignment](#FEA_Part_1)
 * [Crash Avoidence Assignment](#Crash_Avoidence_Assignment)
 * [Launch Pad Assignment](#Launch_Pad_Assignment)
@@ -12,64 +13,104 @@
 
 &nbsp;
 
+## Landing_Area_Assignment
 
-## FEA_Part_1 
+### Part 1
 
-### Assignment Description
+#### Assignment description
+
+For this assignment we had to write code where when you input 3 coordinates on a plane, it will tell you the area of the triangle produced. 
+
+#### Evidence 
+
+![Capture](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/2f4a7faa-3b3f-4240-afc2-2adf85426e8d)
+
+#### Wiring
+
+N/A
+
+#### Code
+
+[THIS RIGHT HERE IS THE LINK TO MY CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LandingAreaPart1.py)
+
+#### Reflection
+
+As this assignment didn't have any wiring, it was entrily code based. With help from google and [River's](https://github.com/rivques/Engr4Code) code, I was able to trouble shoot. My main problem at first was caused from not importing "time" at the begining, but once I added that, the code ran smoothly. 
+
+### Part 2
+
+#### Assignment description
+
+#### Evidence
+
+#### Wiring
+
+#### Code
+
+#### Reflection
+
+&nbsp;
+
+
+## FEA_Assignment
+
+### Part 1
+
+#### Assignment Description
 For this assignement we were partnered up and required to make the strongest beam we could with any prior knowledge. They would then be tested as we add weight to a bucket. The bucket had to hang 180mm away from the base and it had to weight a maximum of 13 grams.  
 
-### Part Link 
+#### Part Link 
 
 [Link to OnShape Document](https://cvilleschools.onshape.com/documents/8b325fcbf1fc9ced667a46ad/w/244fda1d4dd423e6920295c5/e/da5820986e36d6e64f72469d?renderMode=0&uiState=651c4898682dbd1154ff7054)
 
-### Part Image
+#### Part Image
 
 ![Beam Starter + Holder (1)](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/e544fb58-9bc6-48a1-bf78-4421a7003cab)
 ![Beam Starter + Holder](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/6d120254-8b42-4404-98a4-d1a67529a0ab)
 
 
-### Reflection
+#### Reflection
 
 When starting this assignment we had the idea to make a I beam because it seemed to be the strongest, however we realized that there would be a lot of overhang and the beam would not be able to print. So we pivoted our idea and realized that triangles are the strongest shape. We made a long triangular prism with supporting beams inside. It matched the requirement for 180mm but it was too heavy. WE had to make the walls a lot thinner and cut out a lot of holes so it would be 13 grams. Overall this assignment was fun and a good way to get back into CAD and we can't wait to see how well it works.
 
-## FEA_Part_2/3
+### FEA Part 2/3
 
-### Assignment Description
+#### Assignment Description
 We learned how to do a simulation on Onshape called FEA which shows the weakest and strongest parts of a desgin when force is applied. 
 
-### Part Link 
+#### Part Link 
 
 [Link to OnShape Document](https://cvilleschools.onshape.com/documents/8b325fcbf1fc9ced667a46ad/w/244fda1d4dd423e6920295c5/e/da5820986e36d6e64f72469d?renderMode=0&uiState=651c4898682dbd1154ff7054)
 
-### Part Image
+#### Part Image
 ![Assembly 1 (1)](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/39202830-fd05-4bbc-83b5-1d62d99b433c)
 ![Assembly 1 (2)](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/4f51f6cd-e556-4d24-a891-ead528de8e5b)
 ![Assembly 1](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/25e762aa-cc76-4c3b-a7d2-02801b0c0838)
 ![Assembly 1 (3)](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/f193720c-f05c-4be0-8003-15ed7fc8370f)
 
 
-### Reflection
+#### Reflection
 
 Our design is very good with most of the stress being at the point that connects to the base. The structural beams inside where very helpful to support the fore. We just need to reinforce the points of the triangle that are close to the base so it doesn't snap. 
 
-## FEA_Part_4
+### FEA Part 4
 
-### Part Link 
+#### Part Link 
 
 [Link to OnShape Document](https://cvilleschools.onshape.com/documents/8b325fcbf1fc9ced667a46ad/w/244fda1d4dd423e6920295c5/e/da5820986e36d6e64f72469d?renderMode=0&uiState=651c4898682dbd1154ff7054)
 
-### Part Image
+#### Part Image
 
 ![Assembly 1 (5)](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/6edb8424-2db6-4bd4-a8f1-5fa8272c07fb)
 ![Assembly 1 (9)](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/d17533c0-c10e-4da3-bf17-ea3c5950bb66)
 ![Assembly 1 (10)](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/3d8094fd-4755-4261-8f7d-98da82d39743)
 ![Assembly 1 (8)](https://github.com/sgupta70/Engineering_4_Notebook/assets/71406903/8eacc8b7-5bf5-438b-a693-ea49dab8aee9)
 
-### Reflection
+#### Reflection
 
 To improve our beam we added more support to the walls closest the the holder, so it wouldn't break as easily. We also thickend some of the walls were there was the most yellow. But to take away the added weight we cut out more holes. 
 
-## Crash Avoidence Assignment
+## Crash_Avoidence_Assignment
 
 ### Part 1
 
@@ -141,7 +182,7 @@ The hardest part of this assignment was figuring out how to work with the OLED. 
 
 &nbsp;
 
-## Launch Pad Assignment
+## Launch_Pad_Assignment
 
 ### Part 1
 
