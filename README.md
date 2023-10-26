@@ -73,7 +73,7 @@ For this assignement we were partnered up and required to make the strongest bea
 
 When starting this assignment we had the idea to make a I beam because it seemed to be the strongest, however we realized that there would be a lot of overhang and the beam would not be able to print. So we pivoted our idea and realized that triangles are the strongest shape. We made a long triangular prism with supporting beams inside. It matched the requirement for 180mm but it was too heavy. WE had to make the walls a lot thinner and cut out a lot of holes so it would be 13 grams. Overall this assignment was fun and a good way to get back into CAD and we can't wait to see how well it works.
 
-### FEA_Part_2/3
+### FEA Part 2/3
 
 #### Assignment Description
 We learned how to do a simulation on Onshape called FEA which shows the weakest and strongest parts of a desgin when force is applied. 
@@ -93,7 +93,7 @@ We learned how to do a simulation on Onshape called FEA which shows the weakest 
 
 Our design is very good with most of the stress being at the point that connects to the base. The structural beams inside where very helpful to support the fore. We just need to reinforce the points of the triangle that are close to the base so it doesn't snap. 
 
-### FEA_Part_4
+### FEA Part 4
 
 #### Part Link 
 
