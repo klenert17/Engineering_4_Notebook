@@ -34,7 +34,7 @@ N/A
 
 #### Reflection
 
-As this assignment didn't have any wiring, it was entrily code based. With help from google and [River's](https://github.com/rivques/Engr4Code) code, I was able to trouble shoot. My main problem at first was caused from not importing "time" at eh begining, but once I added that, the code ran smoothly. 
+As this assignment didn't have any wiring, it was entrily code based. With help from google and [River's](https://github.com/rivques/Engr4Code) code, I was able to trouble shoot. My main problem at first was caused from not importing "time" at the begining, but once I added that, the code ran smoothly. 
 
 ### Part 2
 
