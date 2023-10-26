@@ -26,56 +26,23 @@ N/A
 
 #### Code
 
-[CODE CODE CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence1.py)
+[THIS RIGHT HERE IS THE LINK TO MY CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LandingAreaPart1.py)
 
 #### Reflection
 
-This assignment was simple in wiring and a little harder to code. Once I understood what the gyro lines meant, I realized I can choose which axis it prints, making it much easier. f commands were also very helpful to learn.
+As this assignment didn't have any wiring, it was entrily code based. With help from google and [River's](https://github.com/rivques/Engr4Code) code, I was able to trouble shoot. My main problem at first was caused from not importing "time" at eh begining, but once I added that, the code ran smoothly. 
 
 ### Part 2
 
 #### Assignment description
 
-For this assignment we had to make a warning light turn on if the breadboard is tilted at 90 degrees, and make it run on a battery, not connected to the computer.
-
 #### Evidence
-
-![My Project (2)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/7ff06b49-610a-468e-99c9-b7572b5f45b9)
 
 #### Wiring
 
-![image](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/57c87275-acc1-43eb-bcbe-8ee2b327d60f)
-
 #### Code
 
-[PLEASE CLICK HERE PLEASE PLEASE PLEASE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence2.py)
-
 #### Reflection
-
-This assignment allowed me to make a lot of progress, because it is no longer computer connected. The x commands that determine the angle of the ship were really cool to learn, but hard to understand. To figure out what 90 degrees was on each x side, I printed the number when the board was on its side, and saw that it was at 9 and -9. I then used the "or" statement and the "<" and ">" to make a area where the LED is not on, and once it surpasses the limits, the LED will turn on. 
-
-### Part 3
-
-#### Assignment description
-
-For this assignment we had to add an onboard OLED screen to print live angular velocity values.
-
-#### Evidence
-
-![My Project (3)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/c40a1bdc-23a9-4f49-9fdd-7838c3d60493)
-
-#### Wiring
-
-![image](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/d960e6b2-217e-4e2e-82ce-d96bd07d9aa3)
-
-#### Code
-
-[BIG BOY CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence3.py0)
-
-#### Reflection
-
-The hardest part of this assignment was figuring out how to work with the OLED. learning the "\n" to break lines on the screen was super helpful. Setting up the board was pretty simple, I just needed to make sure all my SDA and SCL pins were connected in the same pin. I really enjoyed this assignment.
-
 
 &nbsp;
 
