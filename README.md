@@ -13,7 +13,7 @@
 
 &nbsp;
 
-## Landing Area Assignment
+## Landing_Area_Assignment
 
 ### Part 1
 
@@ -52,7 +52,7 @@ As this assignment didn't have any wiring, it was entrily code based. With help 
 &nbsp;
 
 
-## FEA Assignment
+## FEA_Assignment
 
 ### Part 1
 
@@ -110,7 +110,7 @@ Our design is very good with most of the stress being at the point that connects
 
 To improve our beam we added more support to the walls closest the the holder, so it wouldn't break as easily. We also thickend some of the walls were there was the most yellow. But to take away the added weight we cut out more holes. 
 
-## Crash Avoidence Assignment
+## Crash_Avoidence_Assignment
 
 ### Part 1
 
@@ -182,7 +182,7 @@ The hardest part of this assignment was figuring out how to work with the OLED. 
 
 &nbsp;
 
-## Launch Pad Assignment
+## Launch_Pad_Assignment
 
 ### Part 1
 
