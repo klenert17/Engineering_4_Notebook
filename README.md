@@ -54,6 +54,7 @@ For this assignment we had to write code where when you input 3 coordinates on a
 [THIS IS MY CODE WOOOOOOOOOOOOOO](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LandingAreaPart2.py)
 
 #### Reflection
+I had already done the wiring of the OLED schrron from previous assignments, so I resused that. I also reused the code I had used from the previous assignment. I added lines from my previous OLED assignment and with help from google, I was able to come up with this code. I used lots of "While True" loops to create a consistant display. 
 
 &nbsp;
 
