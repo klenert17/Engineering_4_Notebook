@@ -45,7 +45,7 @@ For this assignment we had to write code where when you input 3 coordinates on a
 
 #### Evidence
 
-![My Project (5)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/1f9be709-4cc1-4660-b64a-2d3aa4a3236e)
+![My Project (6)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/a9cda0bd-9006-49fd-9aaf-6f8479b379b6)
 
 #### Wiring
 
