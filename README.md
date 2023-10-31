@@ -41,13 +41,22 @@ As this assignment didn't have any wiring, it was entrily code based. With help 
 
 #### Assignment description
 
+For this assignment we had to write code where when you input 3 coordinates on a plane, it will tell you the area of the triangle produced, and display the prodiced triagle on the OLED screen.
+
 #### Evidence
+
+![My Project (6)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/a9cda0bd-9006-49fd-9aaf-6f8479b379b6)
 
 #### Wiring
 
+![Capture1](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/06992548-d246-405b-8965-40aa11fddd5e)
+
 #### Code
 
+[THIS IS MY CODE WOOOOOOOOOOOOOO](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LandingAreaPart2.py)
+
 #### Reflection
+I had already done the wiring of the OLED schrron from previous assignments, so I resused that. I also reused the code I had used from the previous assignment. I added lines from my previous OLED assignment and with help from google, I was able to come up with this code. I used lots of "While True" loops to create a consistant display. 
 
 &nbsp;
 
