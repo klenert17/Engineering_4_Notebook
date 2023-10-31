@@ -23,7 +23,7 @@ For this assignment, we had to write code that could translate something the use
 
 #### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![Morse Code 1](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/373f9223-93de-4d58-8bbd-ecb5ae855845)
 
 #### Wiring
 
