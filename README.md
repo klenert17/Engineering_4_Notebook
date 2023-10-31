@@ -13,27 +13,29 @@
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## Morse_Code_Assignment
 
-### Assignment Description
+### Part 1
+
+#### Assignment Description
 
 For this assignment, we had to write code that could translate something the user input into the serial monitor into morse code.
 
-### Evidence 
+#### Evidence 
 
 Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
 
-### Wiring
+#### Wiring
 
 N/A
 
-### Code
+#### Code
 
 [LINK IS HERE FOR DA CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/MorseCode1.py)
 
-### Reflection
+#### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This assignment was the first time I had ever used morse code for anything in my life. Luckily, we got the tranlsator of each letter and number given to us. The code mainly cosisted of loops and print commands, so there wasn't much new. This was the first time I used the "break" command, and I find it very useful because it just stops the loop automatically. 
 
 &nbsp;
 
