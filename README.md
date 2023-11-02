@@ -3,6 +3,7 @@
 &nbsp;
 
 ## Table of Contents
+* [Morse_Code_Assignment](#Morse_Code_Assignment)
 * [Landing_Area_Assignment](#Landing_Area_Assignment)
 * [FEA_Assignment](#FEA_Part_1)
 * [Crash Avoidence Assignment](#Crash_Avoidence_Assignment)
@@ -12,6 +13,33 @@
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
+
+## Morse_Code_Assignment
+
+### Part 1
+
+#### Assignment Description
+
+For this assignment, we had to write code that could translate something the user input into the serial monitor into morse code.
+
+#### Evidence 
+
+![Morse Code 1](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/373f9223-93de-4d58-8bbd-ecb5ae855845)
+
+#### Wiring
+
+N/A
+
+#### Code
+
+[LINK IS HERE FOR DA CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/MorseCode1.py)
+
+#### Reflection
+
+This assignment was the first time I had ever used morse code for anything in my life. Luckily, we got the tranlsator of each letter and number given to us. The code mainly cosisted of loops and print commands, so there wasn't much new. This was the first time I used the "break" command, and I find it very useful because it just stops the loop automatically. 
+
+&nbsp;
+
 
 ## Landing_Area_Assignment
 
