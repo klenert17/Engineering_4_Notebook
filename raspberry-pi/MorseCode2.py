@@ -24,22 +24,26 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
     '0':'-----', ', ':'--..--', '.':'.-.-.-',
     '?':'..--..', '/':'-..-.', '-':'-....-',
     '(':'-.--.', ')':'-.--.-'}
-base_delay = 0.25
 CHAR_DELAYS = {
-    ".": [base_delay, base_delay],
-    "-": [3*base_delay, base_delay],
-    " ": [0, 3*base_delay],
-    "/": [0, 7*base_delay]
-}
+    modifier = 0.25
+    dot_time = 1*modifier
+    dash_time = 3*modifier
+    between_taps = 1*modifier
+    between_letters = 3*modifier
+    between_words = 7*modifier}
 
 while True:
-    user_input = input("Enter the string to translate, or type '-q' to quit. ") #prints out a space for you to type words in moniter
-    user_input = user_input.upper()
-    if user_input == "-Q": # uppercase because of the previous line
+
+    character_input = input("Enter the string to translate, or type '-q' to quit. ") #prints out a space for you to type words in moniter
+
+    character_input = character_input.upper()
+    if character_input == "-Q":
         break #everything stops if you type -q in
     morse_translation = ""
-    translation_good = True # flag to be set if we hit an unknown character
-    for letter in user_input:
+    valid_translation = True #approves the characters put in
+   
+   
+    for letter in character_input:
         if letter == " ":
             morse_translation += "/" #if you put a space, it makes a break
         else:
@@ -49,7 +53,9 @@ while True:
                 print(f"Unsupported character \"{letter}\" used. Please try again.") #if you put in a letter that isn't in the above definitions, it tells you
                 translation_good = False
                 break #everything stop
-    if translation_good:
+    
+    
+    if valid_translation:
         print(morse_translation)
         for pulse in morse_translation:
             on_delay, off_delay = CHAR_DELAYS[pulse]
@@ -61,4 +67,3 @@ while True:
                 led.value = False
                 time.sleep(off_delay)
             
-print("Thanks for using the Morse Code Translator. Goodbye!")
