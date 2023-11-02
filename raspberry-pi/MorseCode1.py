@@ -19,10 +19,12 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
 while True:
     user_input = input("Enter the string to translate, or type '-q' to quit. ") #prints out a space for you to type words in moniter
     user_input = user_input.upper()
+   
     if user_input == "-Q":
         break #everything stops if you type -q in
     morse_translation = ""
     translation_good = True
+   
     for letter in user_input:
         if letter == " ":
             morse_translation += "/" #if you put a space, it makes a break
@@ -33,7 +35,7 @@ while True:
                 print(f"Unsupported character \"{letter}\" used. Please try again.") #if you put in a letter that isn't in the above definitions, it tells you
                 translation_good = False
                 break
+ 
     if translation_good:
         print(morse_translation) 
             
-print("Thanks for using the Morse Code Translator. Goodbye!")
