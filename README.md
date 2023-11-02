@@ -38,6 +38,28 @@ N/A
 
 This assignment was the first time I had ever used morse code for anything in my life. Luckily, we got the tranlsator of each letter and number given to us. The code mainly cosisted of loops and print commands, so there wasn't much new. This was the first time I used the "break" command, and I find it very useful because it just stops the loop automatically. 
 
+### Part 2
+
+#### Assignment Description
+
+For this assignment, we had to write code that could translate something the user input into the serial monitor into morse code, then flash an LED with the morse code produced.
+
+#### Evidence 
+
+![My Project (8)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/9a4ea69c-03b1-4ab4-b781-f0404530b97e)
+
+#### Wiring
+
+![Capture2](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/6d1a95b0-e158-418f-a2ed-bc5f57efcd18)
+
+#### Code
+
+[CODE LINK CODE LINK](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/MorseCode2.py)
+
+#### Reflection
+
+This assignment was pretty simple because all it did was connect an LED to the previous assignments code. I used previous assignments to copy and paste my LED code over. Within every loop, I just added a LED True command with a sleep between. 
+
 &nbsp;
 
 
