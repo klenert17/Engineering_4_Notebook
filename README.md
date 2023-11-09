@@ -24,7 +24,7 @@ For this assignment, we had to write code that could translate something the use
 
 #### Evidence 
 
-![Morse Code 1](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/373f9223-93de-4d58-8bbd-ecb5ae855845)
+![My Project (9)](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/4ad8c875-a9eb-4524-ac95-7d7f924f0e73)
 
 #### Wiring
 
