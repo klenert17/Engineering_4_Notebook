@@ -14,6 +14,50 @@
 
 &nbsp;
 
+## Data_Storage_Assignment
+
+### Part 1
+
+#### Assignment Description
+
+For this assignment, we had to collect the data from our Pico, using the same toold from Crash Avoidence Part 2, and send the data to a spreadsheet on our computer.
+
+#### Evidence 
+
+![Capture3](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/ac32bad8-7ea2-4a38-bff0-94a243d2cb0a)
+
+#### Wiring
+
+N/A
+
+#### Code
+
+[very very nice code!](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/DataPart1.py)
+
+#### Reflection
+
+
+### Part 2
+
+#### Assignment Description
+
+
+
+#### Evidence 
+
+
+#### Wiring
+
+
+#### Code
+
+
+#### Reflection
+
+This assignment was pretty simple because all it did was connect an LED to the previous assignments code. I used previous assignments to copy and paste my LED code over. Within every loop, I just added a LED True command with a sleep between. 
+
+&nbsp;
+
 ## Morse_Code_Assignment
 
 ### Part 1
