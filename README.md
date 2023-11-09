@@ -28,7 +28,7 @@ For this assignment, we had to collect the data from our Pico, using the same to
 
 #### Wiring
 
-N/A
+![Untitled](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/94563e4d-f96f-4ce3-be6c-28097712f892)
 
 #### Code
 
