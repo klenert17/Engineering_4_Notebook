@@ -19,7 +19,7 @@ with open("/data.csv", "a") as datalog:
     while True: #loops command
 
         time.sleep(0.5) #pauses for half a second before printing again
-        datalog.write(f"{time.monotonic()},{mpu.acceleration[0]},{mpu.acceleration[1]},{mpu.acceleration[2]},{led1.value},\n") #print x value
+        datalog.write(f"{time.monotonic()},{mpu.acceleration[0]},{mpu.acceleration[1]},{mpu.acceleration[2]},{led1.value},\n") #prints time, x, y, z, and if the LED is on
         datalog.flush()
 
         led1.value = False #makes LED set to off
