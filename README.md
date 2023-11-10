@@ -42,20 +42,25 @@ Because I had the code and wiring from the Crash Avoidance assignment, this assi
 
 #### Assignment Description
 
-
+For this assignment, we had to take our data from the previous assignment and turn it into viewable graphs.
 
 #### Evidence 
+
+![Z, Y, and Z Acceleration of Kathryns PRI Pico](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/eecdacce-fb4a-42f0-a476-6362f0dd7bc4)
+![Tilt Alarm](https://github.com/klenert17/Engineering_4_Notebook/assets/71406905/5c9dfd90-937d-497b-88fb-8479b715701b)
 
 
 #### Wiring
 
+N/A
 
 #### Code
 
+N/A
 
 #### Reflection
 
-This assignment was pretty simple because all it did was connect an LED to the previous assignments code. I used previous assignments to copy and paste my LED code over. Within every loop, I just added a LED True command with a sleep between. 
+This assignment was just using google sheets which I was pretty used to already. My main issue was the sheets not being able to turn "true/false" into graphed data which makes sense. I just tured all "true" statements in to "1" and all false statements into "0"
 
 &nbsp;
 
