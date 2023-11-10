@@ -36,6 +36,7 @@ For this assignment, we had to collect the data from our Pico, using the same to
 
 #### Reflection
 
+Because I had the code and wiring from the Crash Avoidance assignment, this assignment was relativly easy. Creating a boot.py folder is important because it allows the pico to switch between "data" and "code" mode. Data mode is where it collects the numbers when unplugged, and code mode allows you to edit the code. I only really had to add a few lines, and turn the print statements into input statements, that can be opened up in an EXCEL file. 
 
 ### Part 2
 
