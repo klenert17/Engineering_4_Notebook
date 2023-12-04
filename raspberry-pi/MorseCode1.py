@@ -1,5 +1,5 @@
 import time
-
+## I used large portions of Rivers's work in this assignment. Here is a link to their notebook. https://github.com/rivques/Engr4Code
 #These are all the letters and numbers translated
 MORSE_CODE = { 'A':'.-', 'B':'-...',
     'C':'-.-.', 'D':'-..', 'E':'.',
