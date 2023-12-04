@@ -87,7 +87,7 @@ N/A
 
 #### Reflection
 
-This assignment was the first time I had ever used morse code for anything in my life. Luckily, we got the tranlsator of each letter and number given to us. The code mainly cosisted of loops and print commands, so there wasn't much new. This was the first time I used the "break" command, and I find it very useful because it just stops the loop automatically. 
+This assignment was the first time I had ever used morse code for anything in my life. Luckily, we got the tranlsator of each letter and number given to us. The code mainly cosisted of loops and print commands, so there wasn't much new. This was the first time I used the "break" command, and I find it very useful because it just stops the loop automatically. I used large portions of Rivers's work in this assignment. [Here is a link to their notebook.](https://github.com/rivques/Engr4Code)
 
 ### Part 2
 
@@ -109,7 +109,7 @@ For this assignment, we had to write code that could translate something the use
 
 #### Reflection
 
-This assignment was pretty simple because all it did was connect an LED to the previous assignments code. I used previous assignments to copy and paste my LED code over. Within every loop, I just added a LED True command with a sleep between. 
+This assignment was pretty simple because all it did was connect an LED to the previous assignments code. I used previous assignments to copy and paste my LED code over. Within every loop, I just added a LED True command with a sleep between.  I used large portions of Rivers's work in this assignment. [Here is a link to their notebook.](https://github.com/rivques/Engr4Code) 
 
 &nbsp;
 
