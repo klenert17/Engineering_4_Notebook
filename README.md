@@ -136,7 +136,8 @@ N/A
 
 #### Reflection
 
-As this assignment didn't have any wiring, it was entrily code based. With help from google and [River's](https://github.com/rivques/Engr4Code) code, I was able to trouble shoot. My main problem at first was caused from not importing "time" at the begining, but once I added that, the code ran smoothly. 
+As this assignment didn't have any wiring, it was entrily code based. My main problem at first was caused from not importing "time" at the begining, but once I added that, the code ran smoothly. I copied my entire coding assignment from River. [Here is a link to their notebook.] (https://github.com/rivques/Engr4Code)
+
 
 ### Part 2
 
@@ -157,7 +158,7 @@ For this assignment we had to write code where when you input 3 coordinates on a
 [THIS IS MY CODE WOOOOOOOOOOOOOO](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LandingAreaPart2.py)
 
 #### Reflection
-I had already done the wiring of the OLED schrron from previous assignments, so I resused that. I also reused the code I had used from the previous assignment. I added lines from my previous OLED assignment and with help from google, I was able to come up with this code. I used lots of "While True" loops to create a consistant display. 
+I had already done the wiring of the OLED schrron from previous assignments, so I resused that. I also reused the code I had used from the previous assignment. I added lines from my previous OLED assignment and with help from google, I was able to come up with this code. I used lots of "While True" loops to create a consistant display. I copied my entire coding assignment from River. [Here is a link to their notebook.] (https://github.com/rivques/Engr4Code)
 
 &nbsp;
 
