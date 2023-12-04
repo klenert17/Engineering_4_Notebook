@@ -1,4 +1,6 @@
 #type: ignore
+## I used large portions of Rivers's work in this assignment. Here is a link to their notebook. https://github.com/rivques/Engr4Code
+
 
 import time
 import board
