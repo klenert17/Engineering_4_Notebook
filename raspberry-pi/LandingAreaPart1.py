@@ -1,4 +1,5 @@
 import time
+#I copied my entire coding assignment from River. Here is a link to their notebook. https://github.com/rivques/Engr4Code 
 
 def validate_input(input_string: str): # return false on error or an array of the form [x, y] on success
     try:
