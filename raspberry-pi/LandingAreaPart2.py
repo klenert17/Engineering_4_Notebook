@@ -1,4 +1,5 @@
 #type: ignore
+#I copied my entire coding assignment from River. Here is a link to their notebook. https://github.com/rivques/Engr4Code 
 
 import time
 import terminalio
