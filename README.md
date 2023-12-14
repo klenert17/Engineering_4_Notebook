@@ -136,7 +136,7 @@ N/A
 
 #### Reflection
 
-As this assignment didn't have any wiring, it was entrily code based. My main problem at first was caused from not importing "time" at the begining, but once I added that, the code ran smoothly. I copied my entire coding assignment from River. [Here is a link to their notebook.] (https://github.com/rivques/Engr4Code)
+As this assignment didn't have any wiring, it was entrily code based. My main problem at first was caused from not importing "time" at the begining, but once I added that, the code ran smoothly. I copied my entire coding assignment from River. [Here is a link to their notebook.](https://github.com/rivques/Engr4Code)
 
 
 ### Part 2
