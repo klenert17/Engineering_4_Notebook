@@ -228,7 +228,7 @@ To improve our beam we added more support to the walls closest the the holder, s
 
 #### Assignment description
 
-For this assignment we had to wire up an accelerometer that returns acceleration values for the x, y, and z axes to the serial monito.r
+For this assignment we had to wire up an accelerometer that returns acceleration values for the x, y, and z axes to the serial monitor
 
 #### Evidence
 
