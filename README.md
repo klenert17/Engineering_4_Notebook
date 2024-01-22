@@ -21,7 +21,7 @@
 
 #### Assignment Description
 
-For this assignment, we had to collect the data from our Pico, using the same toold from Crash Avoidence Part 2, and send the data to a spreadsheet on our computer.
+For this assignment, we had to collect the data from our Pico, using the same code from Crash Avoidence Part 2, and send the data to a spreadsheet on our computer.
 
 #### Evidence 
 
@@ -43,7 +43,7 @@ Because I had the code and wiring from the Crash Avoidance assignment, this assi
 
 #### Assignment Description
 
-For this assignment, we had to take our data from the previous assignment and turn it into viewable graphs.
+For this assignment, we had to take our data from the previous assignment and turn it into visible graphs.
 
 #### Evidence 
 
@@ -88,13 +88,13 @@ N/A
 
 #### Reflection
 
-This assignment was the first time I had ever used morse code for anything in my life. Luckily, we got the tranlsator of each letter and number given to us. The code mainly cosisted of loops and print commands, so there wasn't much new. This was the first time I used the "break" command, and I find it very useful because it just stops the loop automatically. I used large portions of Rivers's work in this assignment. [Here is a link to their notebook.](https://github.com/rivques/Engr4Code)
+This assignment was the first time I had ever used morse code for anything in my life. Luckily, we got the tranlsator of each letter and number given to us. The code mainly cosisted of loops and print commands, so there wasn't much new. This was the first time I used the "break" command, and I found it very useful because it just stops the loop automatically. I used large portions of Rivers's work in this assignment. [Here is a link to their notebook.](https://github.com/rivques/Engr4Code)
 
 ### Part 2
 
 #### Assignment Description
 
-For this assignment, we had to write code that could translate something the user input into the serial monitor into morse code, then flash an LED with the morse code produced.
+For this assignment, we had to write code that could translate something the user input into the serial monitor into morse code, then flash an LED the cooresponds with the morse code produced.
 
 #### Evidence 
 
@@ -144,7 +144,7 @@ As this assignment didn't have any wiring, it was entrily code based. My main pr
 
 #### Assignment description
 
-For this assignment we had to write code where when you input 3 coordinates on a plane, it will tell you the area of the triangle produced, and display the prodiced triagle on the OLED screen.
+For this assignment we had to write code where when you input 3 coordinates on a plane, it will tell you the area of the triangle produced, and display the produced triagle on the OLED screen.
 
 #### Evidence
 
@@ -159,7 +159,7 @@ For this assignment we had to write code where when you input 3 coordinates on a
 [THIS IS MY CODE WOOOOOOOOOOOOOO](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LandingAreaPart2.py)
 
 #### Reflection
-I had already done the wiring of the OLED schrron from previous assignments, so I resused that. I also reused the code I had used from the previous assignment. I added lines from my previous OLED assignment and with help from google, I was able to come up with this code. I used lots of "While True" loops to create a consistant display. I copied my entire coding assignment from River. [Here is a link to their notebook.](https://github.com/rivques/Engr4Code)
+I had already done the wiring of the OLED screen from previous assignments, so I resused that. I also reused the code I had used from the previous assignment. I added lines from my previous OLED assignment and with help from google, I was able to come up with this code. I used lots of "While True" loops to create a consistant display. I used large portions of Rivers's work in this assignment. [Here is a link to their notebook.](https://github.com/rivques/Engr4Code) 
 
 &nbsp;
 
@@ -244,13 +244,13 @@ For this assignment we had to wire up an accelerometer that returns acceleration
 
 #### Reflection
 
-This assignment was simple in wiring and a little harder to code. Once I understood what the gyro lines meant, I realized I can choose which axis it prints, making it much easier. f commands were also very helpful to learn.
+This assignment was simple in wiring and a little harder to code. Once I understood what the gyro lines meant, I realized I can choose which axis it prints, making it much easier. f commands were also very helpful to learn, as they make printing much faster.
 
 ### Part 2
 
 #### Assignment description
 
-For this assignment we had to make a warning light turn on if the breadboard is tilted at 90 degrees, and make it run on a battery, not connected to the computer.
+For this assignment we had to make a warning light turn on if the breadboard is tilted at 90 degrees. We also had to make it battery powered, not connected to the computer.
 
 #### Evidence
 
@@ -360,7 +360,7 @@ Make the countodwn start after a button is pressed, with the LEDs lightingup for
 
 #### Reflection
 
-The code with this assignment was difficult because I had to remember how to use a button. After looking up some simple code and some of my old code, I was able to cobine parts to the previous part of this assignment and make it work. For wiring, I just connected the button to ground and to another GP pin.
+The code with this assignment was difficult because I had to remember how to use a button. After looking up some simple code and some of my old code, I was able to combine parts to the previous part of this assignment and make it work. For wiring, I just connected the button to ground and to another GP pin.
 
 ### Part 4
 
@@ -404,7 +404,7 @@ For this assignment we had to make the LED on the PI board turn on and off indef
 
 ### Reflection
 
-Most of this assignment was setting up VS Code to work with the Raspberry Pi, and setting it up for a new year. As this was the first code assignment of the year, I was a little bit rusty but this code was very easy. It really wasn't any different from any other LED Blink Assignment I had dome previously, and it was even easier because there was no wiring. Putting #type: ignore at the top was a really helpful piece of information because the red code lines are so annoying
+Most of this assignment was setting up VS Code to work with the Raspberry Pi, and setting it up for a new year. As this was the first code assignment of the year, I was a little bit rusty but this code was very easy. It really wasn't any different from any other LED Blink Assignment I had dome previously, and it was even easier because there was no wiring. Putting #type: ignore at the top was a really helpful piece of information because the red code lines are so annoying.
 
 &nbsp;
 
