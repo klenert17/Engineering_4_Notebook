@@ -284,7 +284,7 @@ For this assignment we had to add an onboard OLED screen to print live angular v
 
 #### Code
 
-[BIG BOY CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence3.py0)
+[BIG BOY CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence3.py)
 
 #### Reflection
 
@@ -312,7 +312,7 @@ No wiring for this assignment
 
 #### Code
 
-[CLICK HERE 4 CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchCountown.py)
+[CLICK HERE 4 CODE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchPad1.py)
 
 #### Reflection
 
@@ -334,7 +334,7 @@ Make the countdown blink red every second it goes down and stay green after it l
 
 #### Code
 
-[CODE CLICK HERE PLEASE PLEASER PLEAS](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LED_Countdown.py)
+[CODE CLICK HERE PLEASE PLEASER PLEAS](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchPad2.py)
 
 #### Reflection
 
@@ -356,7 +356,7 @@ Make the countodwn start after a button is pressed, with the LEDs lightingup for
 
 #### Code
 
-[PLEASE CLICK HERE FOR CODE PLEASE PLE$ASE PLEASE PLEASE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/Countdown_Button.py)
+[PLEASE CLICK HERE FOR CODE PLEASE PLE$ASE PLEASE PLEASE](https://github.com/klenert17/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchPad3.py)
 
 #### Reflection
 
